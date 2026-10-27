@@ -1,6 +1,6 @@
 # Streamline of Security Deposit / FDR Portal
 
-### Smart India Hackathon (SIH) — Project Prototype
+### Smart India Hackathon (SIH) — Project demo (NOT A PROTOTYPE)
 
 > A proposed digital platform for simplifying the submission, tracking, verification, and administration of security deposits and Fixed Deposit Receipts (FDRs).
 
